@@ -7,7 +7,7 @@
 ## environment
 1. open anaconda prompt
 2. make vertual env with `conda create -n DLT_sim python==3.7`
-3. activate with `activate DLT_sim`
+3. activate with `conda activate DLT_sim`
 4. move to the directory where the repository is installed with `cd < repository path >`
 5. install requirements with `pip install -r requiremetns.txt`
 
